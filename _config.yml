@@ -1,8 +1,8 @@
-title: Your awesome title
+title: Ruiqi's Website
 author:
   name: Ruiqi Wang
   email: ruiqi.w-at-wustl.edu
-description: > # this means to ignore newlines until "show_excerpts:"
+description: >- # this means to ignore newlines until "show_excerpts:"
   Hi, I am Ruiqi Wang
 baseurl: "/ruiqiwang"
 show_excerpts: false # set to true to show excerpts on the homepage
