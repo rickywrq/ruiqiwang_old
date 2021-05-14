@@ -4,8 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 # My Resume: 
-<object data="/resume.pdf" type="application/pdf" width="800px" height="700px">
-    <embed src="/resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/resume.pdf">Download PDF</a>.</p>
+<object data="/assets/resume.pdf" type="application/pdf" width="800px" height="700px">
+    <embed src="/assets/resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
