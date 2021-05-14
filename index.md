@@ -8,4 +8,6 @@
 layout: home
 ---
 
-## Hi, I am Ruiqi Wang. I am a first year Ph.D. stutdent advised by Dr. Chenyang Lu.
+<font size="6"> Hi, I am Ruiqi Wang.</font>
+<br>
+<font size="4"> I am a first year Ph.D. stutdent advised by Dr. Chenyang Lu. </font>
