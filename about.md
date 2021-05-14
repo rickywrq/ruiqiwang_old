@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Education
+<div>
+<p><strong>Ph.D. Candidate in Computer Engineering</strong></p>
+<p><strong>Sep 2020 &ndash; Present</strong></p>
+<p>Washington University in St. Louis, St. Louis</p>
+<p><strong>Bachelor of Science in Engineering in Computer Engineering</strong></p>
+<p><strong>Sep 2018 &ndash; Apr 2020</strong></p>
+<p>University of Michigan, College of Engineering, Ann Arbor</p>
+<p><strong>Bachelor of Science in Engineering in Electrical &amp; Computer Engineering</strong></p>
+<p><strong>Sep 2016 &ndash; Aug 2020</strong></p>
+<p>Shanghai Jiao Tong University, UM &ndash; SJTU Joint Institute, Shanghai, China</p>
+</div>

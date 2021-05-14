@@ -8,6 +8,17 @@
 layout: home
 ---
 
-<font size="6"> Hi, I am Ruiqi Wang.</font>
+<font size="5"> Hi, I am Ruiqi Wang.</font>
 <br>
-<font size="4"> I am a first year Ph.D. stutdent advised by Dr. Chenyang Lu. </font>
+<font size="4"> I am a first year Ph.D. stutdent advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a> </font>
+<br>
+<br>
+<div>
+<h2><strong>Education</strong></h2>
+<p><strong>Ph.D. Candidate in Computer Engineering [</strong><strong>Sep 2020 &ndash; Present]</strong></p>
+<p>Washington University in St. Louis, St. Louis</p>
+<p><strong>Bachelor of Science in Engineering in Computer Engineering [</strong><strong>Sep 2018 &ndash; Apr 2020]</strong></p>
+<p>University of Michigan, College of Engineering, Ann Arbor</p>
+<p><strong>Bachelor of Science in Engineering in Electrical &amp; Computer Engineering [</strong><strong>Sep 2016 &ndash; Aug 2020]</strong></p>
+<p>Shanghai Jiao Tong University, UM &ndash; SJTU Joint Institute, Shanghai, China</p>
+</div>
