@@ -10,7 +10,7 @@ layout: home
 <font size="5"> Hi, I am Ruiqi Wang.</font>
 <img src="{{ site.baseurl }}/media/potrait-s.jpg" alt="Italian Trulli" style="width:200px;">
 <br>
-<font size="4"> I am a first year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
+<font size="4"> I am a thrid year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
 <br>
 <br>
 <div>
