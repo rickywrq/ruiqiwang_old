@@ -11,4 +11,5 @@ nav_order: 5
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-*  SP2022 CSE 520S: Real-Time Systems
+*  Teaching Assistant: 
+    * SP2022 CSE 520S: Real-Time Systems
