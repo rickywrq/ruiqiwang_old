@@ -22,13 +22,13 @@
       institution: University of Michigan, College of Engineering, Ann Arbor
       year: Sep 2018 – Apr 2020
       description:
-        - GPA: 3.81/4.0
+        - "GPA: 3.81/4.0"
     
     - title: Bachelor of Science in Engineering in Computer Engineering
       institution: Shanghai Jiao Tong University, UM – SJTU Joint Institute, Shanghai, China
       year: Sep 2016 – Aug 2020
       description:
-        - GPA: 3.74/4.0
+        - "GPA: 3.74/4.0"
 
 # - title: Experience
 #   type: time_table
